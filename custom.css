@@ -354,6 +354,8 @@ nav .fa-bars {
     padding: 0.5rem 1rem;
     top: 0;
     left: 0;
+    text-align: center;
+    width: 8rem;
     border-radius: 1rem;
     color: black;
 }
@@ -563,7 +565,7 @@ footer .main__footer .right p {
 
 
     .contact__form form ::placeholder {
-        text-align: center;
+        /* text-align: center; */
         padding: 0.8rem 1rem;
         width: 8rem;
     }
