@@ -95,7 +95,8 @@ nav .fa-bars {
 .banner {
     width: 100%;
     background: url(assets/img/banner.jpg) no-repeat;
-    height: 50vh;
+    /* height: 50vh; */
+    padding: 10rem 0;
     display: flex;
     justify-content: center;
     align-items: center;
