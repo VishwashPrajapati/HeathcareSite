@@ -224,6 +224,7 @@ nav .fa-bars {
 }
 
 .section__one .right__side .content .btn__signup {
+    width: fit-content;
     margin-top: 1rem;
     padding: 0.8rem 3rem;
     background-color: var(--secondary_text_color);
@@ -276,6 +277,7 @@ nav .fa-bars {
     padding: 0.8rem 3rem;
     background-color: var(--secondary_text_color);
     border-radius: 2rem;
+    width: fit-content;
     text-transform: uppercase;
 }
 
